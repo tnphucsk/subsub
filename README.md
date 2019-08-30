@@ -2,4 +2,4 @@ Demo repo
 [Some ref](demo/)
 
 Other
-[Other ref](abs\ kkk/)
+[Other ref](abs kkk/)
